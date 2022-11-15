@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Reading for a lecture on join algorithms, focusing in particular on Hash
+  Join and Sort-Merge join and the relative tradeoffs of the two approaches.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

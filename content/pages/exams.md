@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains quizzes and solutions from a previous semester.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

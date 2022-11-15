@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Readings and discussion questions for a lecture on schema design.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

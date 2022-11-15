@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Readings and discussion questions for a lecture on buffer and memory
+  management strategies in database systems
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

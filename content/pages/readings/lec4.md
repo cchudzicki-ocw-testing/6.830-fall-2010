@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Reading for a lecture on database system internals.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -16,7 +17,7 @@ video_metadata:
 
 We will start discussing database system internals, based on the content of a paper:
 
-Hellerstein, Joseph, Michael Stonebraker, and James Hamilton. "Architecture of a Database System." _Foundations and Trends in Databases_ 1, no. 2 (2007): 141-259. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf))
+Hellerstein, Joseph, Michael Stonebraker, and James Hamilton. "Architecture of a Database System." _Foundations and Trends in Databases_ 1, no. 2 (2007): 141-259. ([PDF](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf))
 
 It is a rather long paper (don't be too scared by the 119 pages, the page format makes it look much longer than it is) that is in general worth reading, however we only require you to read sections: 1, 2 (skim through it), 3, 4 (up to subsection 4.5 included), 5. You can also skim through section 6 that we will discuss later on.
 

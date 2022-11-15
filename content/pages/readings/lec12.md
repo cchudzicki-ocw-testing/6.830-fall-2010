@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Readings for a lecture on ARIES and recovery.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

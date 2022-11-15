@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Readings and discussion questions for a lecture on concurrency control
+  and optimistic concurrency control.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

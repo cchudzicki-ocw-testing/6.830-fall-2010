@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains problem sets, labs, supporting files, and a description
+  of the final project.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

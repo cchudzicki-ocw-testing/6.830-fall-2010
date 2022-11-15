@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Note accompanying a lecture on the ARIES recovery protocol.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

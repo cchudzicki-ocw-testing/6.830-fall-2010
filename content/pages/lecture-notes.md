@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and the lecture
+  notes for selected sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -140,7 +142,7 @@ Query optimization (CC)
 
 ({{% resource_link cf3d2f95-cf16-fa71-7f57-1771c3792d38 "PDF" %}})
 
-Selinger optimizer (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 7b28a2eb-f609-323f-8ac6-783cae73beb5 "PDF" %}})
+Selinger optimizer ({{% resource_link 7b28a2eb-f609-323f-8ac6-783cae73beb5 "PDF" %}})
 
 
 {{< tdclose >}}

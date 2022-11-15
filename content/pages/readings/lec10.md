@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Reading for a lecture on concurrency control and recovery.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -16,6 +17,6 @@ video_metadata:
 
 In this class, we will begin our discussion of concurrency control and recovery. To prepare for this class, please read:
 
-Franklin, Michael. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Concurrency Control and Recovery (PDF)](https://courses.cs.washington.edu/courses/cse544/11wi/papers/franklin97.pdf)" _The Computer Science and Engineering Handbook_. 1997. 
+Franklin, Michael. "[Concurrency Control and Recovery (PDF)](https://courses.cs.washington.edu/courses/cse544/11wi/papers/franklin97.pdf)" _The Computer Science and Engineering Handbook_. 1997. 
 
 As you read, note any terms you are unfamiliar with and come to class prepared to ask questions!

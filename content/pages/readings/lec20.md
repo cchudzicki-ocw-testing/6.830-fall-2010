@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Readings and discussion questions for a lecture on DryadLINQ, a programming
+  language for manipulating structured data in a distributed setting.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -16,7 +18,7 @@ video_metadata:
 
 Read:
 
-Yu, Yuan, et al. "DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language." OSDI, 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://research.microsoft.com/en-us/projects/dryadlinq/dryadlinq.pdf))
+Yu, Yuan, et al. "DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language." OSDI, 2008. ([PDF](http://research.microsoft.com/en-us/projects/dryadlinq/dryadlinq.pdf))
 
 DryadLINQ is a programming language for manipulating structured data in a distributed setting. It provides a collection of SQL-like constructs that are well-integrated into C# (with a common type and object system), and compiles down to a graph of operators spread across a distributed network of machines in a way similar to how distributed databases work.
 
